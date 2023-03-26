@@ -1,6 +1,6 @@
 # About-Me :grinning:
 
-Hello and welcome to my github. My name is Mohammed and I am a rising senior at SF state.
+Hello and welcome to my github. My name is Mohammed I am a rising senior at SF state.
 
 I am currently learning 
 - Web development with React
@@ -15,4 +15,3 @@ I am currently working on
 - open source development
 - side projects
 - preparing for interviews
-- /play pushit
