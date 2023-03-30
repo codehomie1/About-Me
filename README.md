@@ -12,6 +12,6 @@ my interests are in
 - data science
 
 I am currently working on
-- open source development
+- school work 😫
 - side projects
 - preparing for interviews
