@@ -8,7 +8,7 @@ I am currently learning
 - python, java, js
 
 my interests are in
-- web development
+- software engineering
 - data science
 
 I am currently working on
