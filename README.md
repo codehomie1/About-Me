@@ -1,5 +1,4 @@
-# About-Me :grinning:
-
+# About-Me
 
 I am currently learning 
 - Web development with React
