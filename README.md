@@ -7,7 +7,7 @@ I am currently learning
 
 my interests are in
 - software engineering
-- data science
+- AI and ML
 
 I am currently working on
 - school work 😫
