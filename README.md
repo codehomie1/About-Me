@@ -10,5 +10,5 @@ my interests are in
 - AI and ML
 
 I am currently working on
-- school work 😫
+- side projects
 - preparing for interviews
