@@ -1,7 +1,7 @@
 # About-Me
 
 I am currently learning 
-- Web development with React
+- web dev React
 - backend development
 - python, java, js
 
