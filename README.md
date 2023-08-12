@@ -7,7 +7,7 @@ I am currently learning
 
 my interests are in
 - software engineering
-- Data Science
+- UI / UX 
 
 I am currently working on
 - side projects
