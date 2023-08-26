@@ -11,5 +11,5 @@ my interests are in
 
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
-- side projects ( mainly react )
+- side projects
 - preparing for interviews ( leetcode, hackerrank )
