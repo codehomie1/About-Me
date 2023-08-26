@@ -1,8 +1,8 @@
 # About-Me
 
 I am currently learning 
-- web dev 
-- backend development
+- full-stack development
+-  C/C++ , 
 - python, java, js
 
 my interests are in
