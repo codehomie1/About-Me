@@ -5,9 +5,10 @@ I am currently learning
 -  C/C++ , 
 - python, java, js
 
-my interests are in
+My interests are in
 - software engineering
 - AI
+  
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
 - side projects
