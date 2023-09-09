@@ -7,7 +7,7 @@ I am currently learning
 
 my interests are in
 - software engineering
-
+- AI
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
 - side projects
