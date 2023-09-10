@@ -2,8 +2,7 @@
 
 I am currently learning 
 - full-stack development
--  C/C++ , 
-- python, java, js
+-  C/C++ 
 
 My interests are in
 - software engineering
