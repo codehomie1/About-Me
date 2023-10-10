@@ -1,12 +1,12 @@
 # About-Me
 
 I am currently learning 
-- full-stack development
--  C/C++ 
+- full-stack web development
+- C/C++ 
 
 My interests are in
 - software engineering
-- AI
+- AI, robotics 
   
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
