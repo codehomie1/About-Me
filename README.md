@@ -6,7 +6,6 @@ I am currently learning
 
 My interests are in
 - software engineering
-- AI, robotics 
   
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
