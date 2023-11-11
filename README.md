@@ -2,7 +2,6 @@
 
 I am currently learning 
 - full-stack web development
-- C/C++ 
 
 My interests are in
 - software engineering
