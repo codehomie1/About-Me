@@ -5,7 +5,6 @@ I am currently learning
 
 My interests are in
 - software engineering
-- embedded systems IOT
   
 I am currently working on
 - school ( Operating Systems, adv webdev, databases )
