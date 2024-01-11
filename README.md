@@ -7,6 +7,6 @@ My interests are in
 - software engineering
   
 I am currently working on
-- school ( Operating Systems, adv webdev, databases )
+- school 
 - side projects
 - preparing for interviews
