@@ -5,7 +5,7 @@ I am currently learning
 
 My interests are in
 - software engineering
-- AI/ML in autonomous vehicles
+- AI/ML
   
 I am currently working on
 - school 
