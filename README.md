@@ -1,5 +1,5 @@
 # Hi👋
- Visit my new <a href="codehomie1.github.io/portfolio/">Personal Site</a>
+ Visit my new <a href="https://codehomie1.github.io/portfolio/" >Personal Site</a>
  
 I am currently learning 
 - full-stack web development
