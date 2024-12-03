@@ -2,7 +2,6 @@
  Visit my new <a href="https://codehomie1.github.io/portfolio/" >Personal Site</a>
  
 I am currently working on 
-- open source development
 - masters degree
 - side projects
   
