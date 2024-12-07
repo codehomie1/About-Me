@@ -3,7 +3,7 @@
  
 I am currently working on 
 - masters degree
-- side projects
+- side projects (IOS app development)
   
 My interests are in
 - software engineering ( cloud, AI )
