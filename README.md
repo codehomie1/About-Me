@@ -6,7 +6,7 @@ I am currently working on
 - side projects (IOS app development)
   
 My interests are in
-- software engineering ( cloud, AI )
-- computer vision, autonomous systems, robotics
+- software engineering
+- computer vision, autonomous systems, robotics, IOT
   
 
