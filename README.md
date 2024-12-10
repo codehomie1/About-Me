@@ -8,6 +8,6 @@ I am currently working on
   
 My interests are in
 - software engineering
-- computer vision, autonomous systems, robotics, IOT
+- autonomous systems, robotics, IOT
   
 
