@@ -2,7 +2,7 @@
  Visit my new <a href="https://codehomie1.github.io/portfolio/" >Personal Site</a>
  
 I am currently working on 
-- masters degree
+- masters degree MSCS
 - side projects 
    - IOS app development for a soccer game management app
   
