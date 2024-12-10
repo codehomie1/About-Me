@@ -3,7 +3,8 @@
  
 I am currently working on 
 - masters degree
-- side projects (IOS app development)
+- side projects 
+   - IOS app development for a soccer game management app
   
 My interests are in
 - software engineering
