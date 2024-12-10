@@ -4,7 +4,7 @@
 I am currently working on 
 - masters degree MSCS
 - side projects 
-   - IOS app development for a soccer game management app
+   - IOS app development for soccer game management (tournaments)
   
 My interests are in
 - software engineering
